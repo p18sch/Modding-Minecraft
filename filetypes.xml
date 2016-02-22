@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping ext="info" type="JSON" />
+      <mapping ext="lang" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
